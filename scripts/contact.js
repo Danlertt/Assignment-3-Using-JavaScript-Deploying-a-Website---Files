@@ -1,5 +1,4 @@
-'use strict'
-submitBtn = document.getElementById("submit-button")
+const submitBtn = document.getElementById("submit-button")
 submitBtn.addEventListener('click', () => {
   
   const contactMainElt = document.getElementById("contact-page")

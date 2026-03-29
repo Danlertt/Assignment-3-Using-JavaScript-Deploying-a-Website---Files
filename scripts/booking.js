@@ -1,5 +1,3 @@
-'use strict'
-
 const FULL_DAY_COST = 35
 const HALF_DAY_COST = 20
 const dayElements = document.querySelectorAll('li')
